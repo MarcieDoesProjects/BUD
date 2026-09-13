@@ -46,10 +46,10 @@ within the next 10 years i wanna have completed the following goals:
     
 </details> 
 
-[youtube]("https://www.youtube.com/watch?v=kLZgQWjnUz0&list=PLALAdh8syAj8&pp=sAgC")
+[youtube](https://www.youtube.com/watch?v=kLZgQWjnUz0&list=PLALAdh8syAj8&pp=sAgC)
 
-[codeCademy]()
+[codeCademy](https://www.codecademy.com/)
 
-[teach Yourself Computer Programming]("https://teachyourselfcs.com/")
+[teach Yourself Computer Programming](https://teachyourselfcs.com/)
 
-[Hack The Box (BLUE TEAM SPECIFICALLY]()
+[Hack The Box (BLUE TEAM SPECIFICALLY](https://www.hackthebox.com/)
