@@ -52,4 +52,4 @@ within the next 10 years i wanna have completed the following goals:
 
 [teach Yourself Computer Programming]("https://teachyourselfcs.com/")
 
-[Hack The Box (BLUE TEAM SPECEFICALLY]()
+[Hack The Box (BLUE TEAM SPECIFICALLY]()
