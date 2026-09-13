@@ -1,28 +1,49 @@
-# Who is Marceline?
-age     :
-pronouns:
+<img alt="19659-Arthur-C-Clarke-Quote-Any-sufficiently-advanced-technology-is" src="https://github.com/user-attachments/assets/7f373b81-735a-4422-bbad-2b4ba9d63c35" />
 
-# programing experience 
-<picture>
+# Who is Marceline?
+age: 20\
+pronouns:She/Her\
+Favorite color:Sakura pink\
+nationality:South African\
+Favorite anime: [TGITS]("https://www.imdb.com/title/tt36517689/") , [CPER]("https://www.imdb.com/title/tt12590266/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_1_q_cyperpunk") , [R1/2]("https://www.imdb.com/title/tt32766897/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_ranma") 
+
+
+# programing experience:
+ <picture>
     <source media="(prefers-color-scheme: dark)" <img alt="48f08597f57fff39e981cf8ee92d53d2" srcset="https://github.com/user-attachments/assets/5e81a8aa-6b0c-411f-90d2-9315f0bf70cc" />
     <img alt="" src="https://github.com/user-attachments/assets/de7c3c69-0be7-41ea-b34a-7a9b916f79c9"">
-  </picture>
+</picture>
 
 ##  goals
 within the next 10 years i wanna have completed the following goals:
-<ul>
-  work on a jets code using [JSF AV C++](https://www.stroustrup.com/JSF-AV-rules.pdf) Complient code.
-  work on a nuclear
-</ul>
 
-## My education 
-<ddl>
-    <summary> [free code camp]("https://www.freecodecamp.org/") </summary>
-  [cpp]
-  [python]
-  [java]
-</ddl>
+ - work on a jets code using [JSF AV C++]("https://www.stroustrup.com/JSF-AV-rules.pdf") Complient code.
+- work on a nuclear power plants safety code by following there [regulatory rules]("https://nnr.co.za/about/acts-and-regulations/")
 
-(youtube)
-[codeCademy]
-[udemy]
+
+## contributions:
+
+## My education  
+<details>
+    <summary> -[free code camp]("https://www.freecodecamp.org/") </summary>
+     -[cpp]
+     -[python]
+     -[java]
+    
+</details>
+
+<details>
+    <summary> -[udemy]() </summary>
+     -[cpp]
+     -[python]
+     -[java]
+    
+</details> 
+
+-[youtube]("https://www.youtube.com/watch?v=kLZgQWjnUz0&list=PLALAdh8syAj8&pp=sAgC")
+
+-[codeCademy]()\
+
+-[teach Yourself Computer Programming]("https://teachyourselfcs.com/")
+
+[Hack The Box (BLUE TEAM SPECEFICALLY]()
