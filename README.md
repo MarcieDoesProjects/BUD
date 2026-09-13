@@ -11,7 +11,7 @@ age: 20\
 pronouns: She/Her\
 Favorite color: Sakura pink\
 nationality: South African\
-Favorite anime: [TGITS]("https://www.imdb.com/title/tt36517689/") , [CPER]("https://www.imdb.com/title/tt12590266/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_1_q_cyperpunk") , [R1/2]("https://www.imdb.com/title/tt32766897/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_ranma") 
+Favorite anime: [TGITS](https://www.imdb.com/title/tt36517689/) , [CPER](https://www.imdb.com/title/tt12590266/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_1_q_cyperpunk) , [R1/2](https://www.imdb.com/title/tt32766897/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_ranma) 
 
 
 # programing experience:
@@ -23,8 +23,8 @@ Favorite anime: [TGITS]("https://www.imdb.com/title/tt36517689/") , [CPER]("http
 ##  goals
 within the next 10 years i wanna have completed the following goals:
 
- - work on a jets code using [JSF AV C++]("https://www.stroustrup.com/JSF-AV-rules.pdf") Complient code.
-- work on a nuclear power plants safety code by following there [regulatory rules]("https://nnr.co.za/about/acts-and-regulations/")
+ - work on a jets code using [JSF AV C++](https://www.stroustrup.com/JSF-AV-rules.pdf) Complient code.
+- work on a nuclear power plants safety code by following there [regulatory rules](https://nnr.co.za/about/acts-and-regulations/)
 
 
 ## contributions:
