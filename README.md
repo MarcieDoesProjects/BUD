@@ -31,7 +31,7 @@ within the next 10 years i wanna have completed the following goals:
 
 ## My education:
 <details>
-    <summary> [free code camp] (https://www.freecodecamp.org/) </summary>
+    <summary> free code camp </summary>
      [cpp]
      [python]
      [java]
@@ -39,7 +39,7 @@ within the next 10 years i wanna have completed the following goals:
 </details>
 
 <details>
-    <summary> -[udemy]() </summary>
+    <summary> udemy </summary>
      [cpp]
      [python]
      [java]
