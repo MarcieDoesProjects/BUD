@@ -7,10 +7,10 @@ she is me :D
 <p> somewhat smart broke not a boy or phelantrapist programmer who knows c++, java, html5, css, typescript and some ts </p>
 
 # Basic information...
-age:                     20\
-pronouns:She/Her\
-Favorite color:Sakura pink\
-nationality:South African\
+age: 20\
+pronouns: She/Her\
+Favorite color: Sakura pink\
+nationality: South African\
 Favorite anime: [TGITS]("https://www.imdb.com/title/tt36517689/") , [CPER]("https://www.imdb.com/title/tt12590266/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_1_q_cyperpunk") , [R1/2]("https://www.imdb.com/title/tt32766897/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_ranma") 
 
 
