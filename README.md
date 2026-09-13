@@ -1,6 +1,12 @@
 <img alt="19659-Arthur-C-Clarke-Quote-Any-sufficiently-advanced-technology-is" src="https://github.com/user-attachments/assets/7f373b81-735a-4422-bbad-2b4ba9d63c35" />
 
 # Who is Marceline?
+she is me :D
+
+# Who is Marceline really?
+<p> somewhat smart broke not a boy or phelantrapist programmer who knows c++, java, html5, css, typescript and some ts </p>
+
+# Basic information...
 age: 20\
 pronouns:She/Her\
 Favorite color:Sakura pink\
