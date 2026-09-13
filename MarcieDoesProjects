@@ -1,0 +1,40 @@
+name: Update Yearly Number
+
+on:
+  schedule:
+    - cron: "0 0 1 1 *" # Runs on January 1st every year
+  workflow_dispatch: # Allows manual triggers
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update number with Python
+        run: |
+          python3 -c '
+          import datetime
+          # Calculate your number (e.g., current year - 2016)
+          start_year = 2016
+          current_number = datetime.date.today().year - start_year
+          
+          with open("README.md", "r") as f:
+              content = f.read()
+          
+          import re
+          new_content = re.sub(
+              r"<!--START_COUNT-->.*?<!--END_COUNT-->",
+              f"<!--START_COUNT-->{current_number}<!--END_COUNT-->",
+              content
+          )
+          
+          with open("README.md", "w") as f:
+              f.write(new_content)
+          '
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automatically update yearly counter"
