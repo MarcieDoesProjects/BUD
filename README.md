@@ -1,8 +1,10 @@
-#Who is Marceline?
+
+# Who is Marceline?
 She/Her
 
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-    <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    <source media="(prefers-color-scheme: dark)" <img alt="48f08597f57fff39e981cf8ee92d53d2" srcset="https://github.com/user-attachments/assets/5e81a8aa-6b0c-411f-90d2-9315f0bf70cc" />
+    <img alt="" src="https://github.com/user-attachments/assets/de7c3c69-0be7-41ea-b34a-7a9b916f79c9"">
   </picture>
+
