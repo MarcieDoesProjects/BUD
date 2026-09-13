@@ -7,7 +7,7 @@ she is me :D
 <p> somewhat smart broke not a boy or phelantrapist programmer who knows c++, java, html5, css, typescript and some ts </p>
 
 # Basic information...
-age: 20\
+age:20\
 pronouns:She/Her\
 Favorite color:Sakura pink\
 nationality:South African\
