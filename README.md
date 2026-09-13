@@ -26,24 +26,24 @@ within the next 10 years i wanna have completed the following goals:
 ## My education  
 <details>
     <summary> -[free code camp]("https://www.freecodecamp.org/") </summary>
-     -[cpp]
-     -[python]
-     -[java]
+     [cpp]
+     [python]
+     [java]
     
 </details>
 
 <details>
     <summary> -[udemy]() </summary>
-     -[cpp]
-     -[python]
-     -[java]
+     [cpp]
+     [python]
+     [java]
     
 </details> 
 
--[youtube]("https://www.youtube.com/watch?v=kLZgQWjnUz0&list=PLALAdh8syAj8&pp=sAgC")
+[youtube]("https://www.youtube.com/watch?v=kLZgQWjnUz0&list=PLALAdh8syAj8&pp=sAgC")
 
--[codeCademy]()\
+[codeCademy]()
 
--[teach Yourself Computer Programming]("https://teachyourselfcs.com/")
+[teach Yourself Computer Programming]("https://teachyourselfcs.com/")
 
 [Hack The Box (BLUE TEAM SPECEFICALLY]()
