@@ -31,7 +31,7 @@ within the next 10 years i wanna have completed the following goals:
 
 ## My education:
 <details>
-    <summary> -[free code camp](https://www.freecodecamp.org/) </summary>
+    <summary> [free code camp] (https://www.freecodecamp.org/) </summary>
      [cpp]
      [python]
      [java]
